@@ -4,679 +4,679 @@
     "name": "Mumiyo Botox Kremi",
     "category": "Kremler",
     "price": 600,
-    "image": "assets/urun-001.webp",
-    "page": 1,
+    "image": "assets/u1.webp",
     "source": "Dermolif Ürün Kataloğu",
-    "verified": true
+    "verified": true,
+    "description": "Ürün bilgileri ve kullanım ayrıntıları için WhatsApp üzerinden bilgi alabilirsiniz."
   },
   {
     "id": "u2",
     "name": "Ahri Kahra Krem",
     "category": "Kremler",
     "price": 600,
-    "image": "assets/urun-002.webp",
-    "page": 2,
+    "image": "assets/u2.webp",
     "source": "Dermolif Ürün Kataloğu",
-    "verified": true
+    "verified": true,
+    "description": "Ürün bilgileri ve kullanım ayrıntıları için WhatsApp üzerinden bilgi alabilirsiniz."
   },
   {
     "id": "u3",
     "name": "Anti Aging Krem",
     "category": "Kremler",
     "price": 600,
-    "image": "assets/urun-003.webp",
-    "page": 3,
+    "image": "assets/u3.webp",
     "source": "Dermolif Ürün Kataloğu",
-    "verified": true
+    "verified": true,
+    "description": "Ürün bilgileri ve kullanım ayrıntıları için WhatsApp üzerinden bilgi alabilirsiniz."
   },
   {
     "id": "u4",
     "name": "Ruşur Taşı Kremi",
     "category": "Kremler",
     "price": 600,
-    "image": "assets/urun-004.webp",
-    "page": 4,
+    "image": "assets/u4.webp",
     "source": "Dermolif Ürün Kataloğu",
-    "verified": true
+    "verified": true,
+    "description": "Ürün bilgileri ve kullanım ayrıntıları için WhatsApp üzerinden bilgi alabilirsiniz."
   },
   {
     "id": "u5",
     "name": "Doğal Güneş Kremi",
     "category": "Kremler",
     "price": 600,
-    "image": "assets/urun-005.webp",
-    "page": 5,
+    "image": "assets/u5.webp",
     "source": "Dermolif Ürün Kataloğu",
-    "verified": true
+    "verified": true,
+    "description": "Ürün bilgileri ve kullanım ayrıntıları için WhatsApp üzerinden bilgi alabilirsiniz."
   },
   {
     "id": "u6",
     "name": "Aydınlatıcı Leke Giderici Krem",
     "category": "Kremler",
     "price": 600,
-    "image": "assets/urun-006.webp",
-    "page": 6,
+    "image": "assets/u6.webp",
     "source": "Dermolif Ürün Kataloğu",
-    "verified": true
+    "verified": true,
+    "description": "Ürün bilgileri ve kullanım ayrıntıları için WhatsApp üzerinden bilgi alabilirsiniz."
   },
   {
     "id": "u7",
     "name": "Beyazlatıcı Krem",
     "category": "Kremler",
     "price": 600,
-    "image": "assets/urun-007.webp",
-    "page": 7,
+    "image": "assets/u7.webp",
     "source": "Dermolif Ürün Kataloğu",
-    "verified": true
+    "verified": true,
+    "description": "Ürün bilgileri ve kullanım ayrıntıları için WhatsApp üzerinden bilgi alabilirsiniz."
   },
   {
     "id": "u8",
     "name": "Udihindi Kremi",
     "category": "Kremler",
     "price": 600,
-    "image": "assets/urun-008.webp",
-    "page": 8,
+    "image": "assets/u8.webp",
     "source": "Dermolif Ürün Kataloğu",
-    "verified": true
+    "verified": true,
+    "description": "Ürün bilgileri ve kullanım ayrıntıları için WhatsApp üzerinden bilgi alabilirsiniz."
   },
   {
     "id": "u9",
     "name": "İyotlu Krem",
     "category": "Kremler",
     "price": 600,
-    "image": "assets/urun-009.webp",
-    "page": 9,
+    "image": "assets/u9.webp",
     "source": "Dermolif Ürün Kataloğu",
-    "verified": true
+    "verified": true,
+    "description": "Ürün bilgileri ve kullanım ayrıntıları için WhatsApp üzerinden bilgi alabilirsiniz."
   },
   {
     "id": "u10",
     "name": "Kuyruk Yağlı Cilt Kremi",
     "category": "Kremler",
     "price": 600,
-    "image": "assets/urun-010.webp",
-    "page": 10,
+    "image": "assets/u10.webp",
     "source": "Dermolif Ürün Kataloğu",
-    "verified": true
+    "verified": true,
+    "description": "Ürün bilgileri ve kullanım ayrıntıları için WhatsApp üzerinden bilgi alabilirsiniz."
   },
   {
     "id": "u11",
     "name": "Hindistan Cevizi Yağlı Krem",
     "category": "Kremler",
     "price": 600,
-    "image": "assets/urun-011.webp",
-    "page": 11,
+    "image": "assets/u11.webp",
     "source": "Dermolif Ürün Kataloğu",
-    "verified": true
+    "verified": true,
+    "description": "Ürün bilgileri ve kullanım ayrıntıları için WhatsApp üzerinden bilgi alabilirsiniz."
   },
   {
     "id": "u12",
     "name": "Saç Kremi",
     "category": "Kremler",
     "price": 600,
-    "image": "assets/urun-012.webp",
-    "page": 12,
+    "image": "assets/u12.webp",
     "source": "Dermolif Ürün Kataloğu",
-    "verified": true
+    "verified": true,
+    "description": "Ürün bilgileri ve kullanım ayrıntıları için WhatsApp üzerinden bilgi alabilirsiniz."
   },
   {
     "id": "u13",
     "name": "Çatlak ve Selülit Kremi",
     "category": "Kremler",
     "price": 600,
-    "image": "assets/urun-013.webp",
-    "page": 13,
+    "image": "assets/u13.webp",
     "source": "Dermolif Ürün Kataloğu",
-    "verified": true
+    "verified": true,
+    "description": "Ürün bilgileri ve kullanım ayrıntıları için WhatsApp üzerinden bilgi alabilirsiniz."
   },
   {
     "id": "u14",
     "name": "Gül Roza Kremi",
     "category": "Kremler",
     "price": 600,
-    "image": "assets/urun-014.webp",
-    "page": 14,
+    "image": "assets/u14.webp",
     "source": "Dermolif Ürün Kataloğu",
-    "verified": true
+    "verified": true,
+    "description": "Ürün bilgileri ve kullanım ayrıntıları için WhatsApp üzerinden bilgi alabilirsiniz."
   },
   {
     "id": "u15",
     "name": "Kararan Bölge Kremi",
     "category": "Kremler",
     "price": 600,
-    "image": "assets/urun-015.webp",
-    "page": 15,
+    "image": "assets/u15.webp",
     "source": "Dermolif Ürün Kataloğu",
-    "verified": true
+    "verified": true,
+    "description": "Ürün bilgileri ve kullanım ayrıntıları için WhatsApp üzerinden bilgi alabilirsiniz."
   },
   {
     "id": "u16",
     "name": "Leke Giderici Cilt Açıcı Yüz Kremi",
     "category": "Kremler",
     "price": 600,
-    "image": "assets/urun-016.webp",
-    "page": 16,
+    "image": "assets/u16.webp",
     "source": "Dermolif Ürün Kataloğu",
-    "verified": true
+    "verified": true,
+    "description": "Ürün bilgileri ve kullanım ayrıntıları için WhatsApp üzerinden bilgi alabilirsiniz."
   },
   {
     "id": "u17",
     "name": "Göz Altı Morluk Kremi",
     "category": "Kremler",
     "price": 600,
-    "image": "assets/urun-017.webp",
-    "page": 17,
+    "image": "assets/u17.webp",
     "source": "Dermolif Ürün Kataloğu",
-    "verified": true
+    "verified": true,
+    "description": "Ürün bilgileri ve kullanım ayrıntıları için WhatsApp üzerinden bilgi alabilirsiniz."
   },
   {
     "id": "u18",
     "name": "Tıraş Sonrası Bakım Kremi",
     "category": "Kremler",
     "price": 600,
-    "image": "assets/urun-018.webp",
-    "page": 18,
+    "image": "assets/u18.webp",
     "source": "Dermolif Ürün Kataloğu",
-    "verified": true
+    "verified": true,
+    "description": "Ürün bilgileri ve kullanım ayrıntıları için WhatsApp üzerinden bilgi alabilirsiniz."
   },
   {
     "id": "u19",
     "name": "Yoğun Nemlendirici El ve Yüz Kremi",
     "category": "Kremler",
     "price": 600,
-    "image": "assets/urun-019.webp",
-    "page": 19,
+    "image": "assets/u19.webp",
     "source": "Dermolif Ürün Kataloğu",
-    "verified": true
+    "verified": true,
+    "description": "Ürün bilgileri ve kullanım ayrıntıları için WhatsApp üzerinden bilgi alabilirsiniz."
   },
   {
     "id": "u20",
     "name": "Güzellik Kremi",
     "category": "Kremler",
     "price": 600,
-    "image": "assets/urun-020.webp",
-    "page": 20,
+    "image": "assets/u20.webp",
     "source": "Dermolif Ürün Kataloğu",
-    "verified": true
+    "verified": true,
+    "description": "Ürün bilgileri ve kullanım ayrıntıları için WhatsApp üzerinden bilgi alabilirsiniz."
   },
   {
     "id": "u21",
     "name": "Pişik Kremi",
     "category": "Kremler",
     "price": 600,
-    "image": "assets/urun-021.webp",
-    "page": 21,
+    "image": "assets/u21.webp",
     "source": "Dermolif Ürün Kataloğu",
-    "verified": true
+    "verified": true,
+    "description": "Ürün bilgileri ve kullanım ayrıntıları için WhatsApp üzerinden bilgi alabilirsiniz."
   },
   {
     "id": "u22",
     "name": "Sivilce Kremi",
     "category": "Kremler",
     "price": 600,
-    "image": "assets/urun-022.webp",
-    "page": 22,
+    "image": "assets/u22.webp",
     "source": "Dermolif Ürün Kataloğu",
-    "verified": true
+    "verified": true,
+    "description": "Ürün bilgileri ve kullanım ayrıntıları için WhatsApp üzerinden bilgi alabilirsiniz."
   },
   {
     "id": "u23",
     "name": "Saç ve Sakal Düzleştirici Krem",
     "category": "Kremler",
     "price": 600,
-    "image": "assets/urun-023.webp",
-    "page": 23,
+    "image": "assets/u23.webp",
     "source": "Dermolif Ürün Kataloğu",
-    "verified": true
+    "verified": true,
+    "description": "Ürün bilgileri ve kullanım ayrıntıları için WhatsApp üzerinden bilgi alabilirsiniz."
   },
   {
     "id": "u24",
     "name": "Erkek Özel Krem",
     "category": "Kremler",
     "price": 600,
-    "image": "assets/urun-024.webp",
-    "page": 24,
+    "image": "assets/u24.webp",
     "source": "Dermolif Ürün Kataloğu",
-    "verified": true
+    "verified": true,
+    "description": "Ürün bilgileri ve kullanım ayrıntıları için WhatsApp üzerinden bilgi alabilirsiniz."
   },
   {
     "id": "u25",
     "name": "Sedef Merhemi",
     "category": "Merhemler",
     "price": null,
-    "image": "assets/urun-025.webp",
-    "page": 25,
+    "image": "assets/u25.webp",
     "source": "Dermolif Ürün Kataloğu",
-    "verified": true
+    "verified": true,
+    "description": "Ürün bilgileri ve kullanım ayrıntıları için WhatsApp üzerinden bilgi alabilirsiniz."
   },
   {
     "id": "u26",
     "name": "Topuk Çatlak Merhemi",
     "category": "Merhemler",
     "price": null,
-    "image": "assets/urun-026.webp",
-    "page": 26,
+    "image": "assets/u26.webp",
     "source": "Dermolif Ürün Kataloğu",
-    "verified": true
+    "verified": true,
+    "description": "Ürün bilgileri ve kullanım ayrıntıları için WhatsApp üzerinden bilgi alabilirsiniz."
   },
   {
     "id": "u27",
     "name": "Topuk Dikeni Merhemi",
     "category": "Merhemler",
     "price": null,
-    "image": "assets/urun-027.webp",
-    "page": 27,
+    "image": "assets/u27.webp",
     "source": "Dermolif Ürün Kataloğu",
-    "verified": true
+    "verified": true,
+    "description": "Ürün bilgileri ve kullanım ayrıntıları için WhatsApp üzerinden bilgi alabilirsiniz."
   },
   {
     "id": "u28",
     "name": "Alerji Merhemi",
     "category": "Merhemler",
     "price": null,
-    "image": "assets/urun-028.webp",
-    "page": 28,
+    "image": "assets/u28.webp",
     "source": "Dermolif Ürün Kataloğu",
-    "verified": true
+    "verified": true,
+    "description": "Ürün bilgileri ve kullanım ayrıntıları için WhatsApp üzerinden bilgi alabilirsiniz."
   },
   {
     "id": "u29",
     "name": "Kaşıntı Merhemi",
     "category": "Merhemler",
     "price": null,
-    "image": "assets/urun-029.webp",
-    "page": 29,
+    "image": "assets/u29.webp",
     "source": "Dermolif Ürün Kataloğu",
-    "verified": true
+    "verified": true,
+    "description": "Ürün bilgileri ve kullanım ayrıntıları için WhatsApp üzerinden bilgi alabilirsiniz."
   },
   {
     "id": "u30",
     "name": "Uyuz Merhemi",
     "category": "Merhemler",
     "price": null,
-    "image": "assets/urun-030.webp",
-    "page": 30,
+    "image": "assets/u30.webp",
     "source": "Dermolif Ürün Kataloğu",
-    "verified": true
+    "verified": true,
+    "description": "Ürün bilgileri ve kullanım ayrıntıları için WhatsApp üzerinden bilgi alabilirsiniz."
   },
   {
     "id": "u31",
     "name": "Hücre Yenileyici Merhem",
     "category": "Merhemler",
     "price": null,
-    "image": "assets/urun-031.webp",
-    "page": 31,
+    "image": "assets/u31.webp",
     "source": "Dermolif Ürün Kataloğu",
-    "verified": true
+    "verified": true,
+    "description": "Ürün bilgileri ve kullanım ayrıntıları için WhatsApp üzerinden bilgi alabilirsiniz."
   },
   {
     "id": "u32",
     "name": "Yara Yanık Merhemi",
     "category": "Merhemler",
     "price": null,
-    "image": "assets/urun-032.webp",
-    "page": 32,
+    "image": "assets/u32.webp",
     "source": "Dermolif Ürün Kataloğu",
-    "verified": true
+    "verified": true,
+    "description": "Ürün bilgileri ve kullanım ayrıntıları için WhatsApp üzerinden bilgi alabilirsiniz."
   },
   {
     "id": "u33",
     "name": "Varis Merhemi",
     "category": "Merhemler",
     "price": null,
-    "image": "assets/urun-033.webp",
-    "page": 33,
+    "image": "assets/u33.webp",
     "source": "Dermolif Ürün Kataloğu",
-    "verified": true
+    "verified": true,
+    "description": "Ürün bilgileri ve kullanım ayrıntıları için WhatsApp üzerinden bilgi alabilirsiniz."
   },
   {
     "id": "u34",
     "name": "Vitiligo Merhemi",
     "category": "Merhemler",
     "price": null,
-    "image": "assets/urun-034.webp",
-    "page": 34,
+    "image": "assets/u34.webp",
     "source": "Dermolif Ürün Kataloğu",
-    "verified": true
+    "verified": true,
+    "description": "Ürün bilgileri ve kullanım ayrıntıları için WhatsApp üzerinden bilgi alabilirsiniz."
   },
   {
     "id": "s1",
     "name": "Mide Destek Seti",
     "category": "Setler",
     "price": 3000,
-    "image": "assets/set-001.webp",
-    "page": 1,
+    "image": "assets/s1.webp",
     "source": "Destek Setleri",
-    "verified": true
+    "verified": true,
+    "description": "Ürün bilgileri ve kullanım ayrıntıları için WhatsApp üzerinden bilgi alabilirsiniz."
   },
   {
     "id": "s2",
     "name": "Ağız ve Diş Bakım Seti",
     "category": "Setler",
     "price": 3000,
-    "image": "assets/set-002.webp",
-    "page": 2,
+    "image": "assets/s2.webp",
     "source": "Destek Setleri",
-    "verified": true
+    "verified": true,
+    "description": "Ürün bilgileri ve kullanım ayrıntıları için WhatsApp üzerinden bilgi alabilirsiniz."
   },
   {
     "id": "s3",
     "name": "Sigara Bırakma Destek Seti",
     "category": "Setler",
     "price": 3000,
-    "image": "assets/set-003.webp",
-    "page": 3,
+    "image": "assets/s3.webp",
     "source": "Destek Setleri",
-    "verified": true
+    "verified": true,
+    "description": "Ürün bilgileri ve kullanım ayrıntıları için WhatsApp üzerinden bilgi alabilirsiniz."
   },
   {
     "id": "s4",
     "name": "Saç Çıkarıcı Destek Seti",
     "category": "Setler",
     "price": 3000,
-    "image": "assets/set-004.webp",
-    "page": 4,
+    "image": "assets/s4.webp",
     "source": "Destek Setleri",
-    "verified": true
+    "verified": true,
+    "description": "Ürün bilgileri ve kullanım ayrıntıları için WhatsApp üzerinden bilgi alabilirsiniz."
   },
   {
     "id": "s5",
     "name": "Vitiligo Destek Seti",
     "category": "Setler",
     "price": 3000,
-    "image": "assets/set-005.webp",
-    "page": 5,
+    "image": "assets/s5.webp",
     "source": "Destek Setleri",
-    "verified": true
+    "verified": true,
+    "description": "Ürün bilgileri ve kullanım ayrıntıları için WhatsApp üzerinden bilgi alabilirsiniz."
   },
   {
     "id": "s6",
     "name": "Sidr İçerikli Destek Seti",
     "category": "Setler",
     "price": 3000,
-    "image": "assets/set-006.webp",
-    "page": 6,
+    "image": "assets/s6.webp",
     "source": "Destek Setleri",
-    "verified": true
+    "verified": true,
+    "description": "Ürün bilgileri ve kullanım ayrıntıları için WhatsApp üzerinden bilgi alabilirsiniz."
   },
   {
     "id": "s7",
     "name": "Kolajen Destek Seti",
     "category": "Setler",
     "price": 3000,
-    "image": "assets/set-007.webp",
-    "page": 7,
+    "image": "assets/s7.webp",
     "source": "Destek Setleri",
-    "verified": true
+    "verified": true,
+    "description": "Ürün bilgileri ve kullanım ayrıntıları için WhatsApp üzerinden bilgi alabilirsiniz."
   },
   {
     "id": "s8",
     "name": "Parazit Kovucu Destek Seti",
     "category": "Setler",
     "price": 3000,
-    "image": "assets/set-008.webp",
-    "page": 8,
+    "image": "assets/s8.webp",
     "source": "Destek Setleri",
-    "verified": true
+    "verified": true,
+    "description": "Ürün bilgileri ve kullanım ayrıntıları için WhatsApp üzerinden bilgi alabilirsiniz."
   },
   {
     "id": "s9",
     "name": "Hemoroid Basur Destek Seti",
     "category": "Setler",
     "price": 3000,
-    "image": "assets/set-009.webp",
-    "page": 9,
+    "image": "assets/s9.webp",
     "source": "Destek Setleri",
-    "verified": true
+    "verified": true,
+    "description": "Ürün bilgileri ve kullanım ayrıntıları için WhatsApp üzerinden bilgi alabilirsiniz."
   },
   {
     "id": "s10",
     "name": "Şeker Destek Seti",
     "category": "Setler",
     "price": 3000,
-    "image": "assets/set-010.webp",
-    "page": 10,
+    "image": "assets/s10.webp",
     "source": "Destek Setleri",
-    "verified": true
+    "verified": true,
+    "description": "Ürün bilgileri ve kullanım ayrıntıları için WhatsApp üzerinden bilgi alabilirsiniz."
   },
   {
     "id": "s11",
     "name": "Kemik Erimesi Destek Seti",
     "category": "Setler",
     "price": 3000,
-    "image": "assets/set-011.webp",
-    "page": 11,
+    "image": "assets/s11.webp",
     "source": "Destek Setleri",
-    "verified": true
+    "verified": true,
+    "description": "Ürün bilgileri ve kullanım ayrıntıları için WhatsApp üzerinden bilgi alabilirsiniz."
   },
   {
     "id": "s12",
     "name": "Erkek Bebek Destek Seti",
     "category": "Setler",
     "price": 3000,
-    "image": "assets/set-012.webp",
-    "page": 12,
+    "image": "assets/s12.webp",
     "source": "Destek Setleri",
-    "verified": true
+    "verified": true,
+    "description": "Ürün bilgileri ve kullanım ayrıntıları için WhatsApp üzerinden bilgi alabilirsiniz."
   },
   {
     "id": "s13",
     "name": "Gebelik ve Kadınsal Problemler Destek Seti",
     "category": "Setler",
     "price": 3000,
-    "image": "assets/set-013.webp",
-    "page": 13,
+    "image": "assets/s13.webp",
     "source": "Destek Setleri",
-    "verified": true
+    "verified": true,
+    "description": "Ürün bilgileri ve kullanım ayrıntıları için WhatsApp üzerinden bilgi alabilirsiniz."
   },
   {
     "id": "s14",
     "name": "Eklem Destek Seti",
     "category": "Setler",
     "price": 3000,
-    "image": "assets/set-014.webp",
-    "page": 14,
+    "image": "assets/s14.webp",
     "source": "Destek Setleri",
-    "verified": true
+    "verified": true,
+    "description": "Ürün bilgileri ve kullanım ayrıntıları için WhatsApp üzerinden bilgi alabilirsiniz."
   },
   {
     "id": "s15",
     "name": "Bağışıklık Güçlendirici Set",
     "category": "Setler",
     "price": 3000,
-    "image": "assets/set-015.webp",
-    "page": 15,
+    "image": "assets/s15.webp",
     "source": "Destek Setleri",
-    "verified": true
+    "verified": true,
+    "description": "Ürün bilgileri ve kullanım ayrıntıları için WhatsApp üzerinden bilgi alabilirsiniz."
   },
   {
     "id": "s16",
     "name": "Egzama Mantar Sedef Destek Seti",
     "category": "Setler",
     "price": 3000,
-    "image": "assets/set-016.webp",
-    "page": 16,
+    "image": "assets/s16.webp",
     "source": "Destek Setleri",
-    "verified": true
+    "verified": true,
+    "description": "Ürün bilgileri ve kullanım ayrıntıları için WhatsApp üzerinden bilgi alabilirsiniz."
   },
   {
     "id": "s17",
     "name": "Nasır Destek Seti",
     "category": "Setler",
     "price": 3000,
-    "image": "assets/set-017.webp",
-    "page": 17,
+    "image": "assets/s17.webp",
     "source": "Destek Setleri",
-    "verified": true
+    "verified": true,
+    "description": "Ürün bilgileri ve kullanım ayrıntıları için WhatsApp üzerinden bilgi alabilirsiniz."
   },
   {
     "id": "s18",
     "name": "Bebek ve Çocuk Bakım Seti",
     "category": "Setler",
     "price": 3000,
-    "image": "assets/set-018.webp",
-    "page": 18,
+    "image": "assets/s18.webp",
     "source": "Destek Setleri",
-    "verified": true
+    "verified": true,
+    "description": "Ürün bilgileri ve kullanım ayrıntıları için WhatsApp üzerinden bilgi alabilirsiniz."
   },
   {
     "id": "s19",
     "name": "Enfeksiyon Destek Seti",
     "category": "Setler",
     "price": 3000,
-    "image": "assets/set-019.webp",
-    "page": 19,
+    "image": "assets/s19.webp",
     "source": "Destek Setleri",
-    "verified": true
+    "verified": true,
+    "description": "Ürün bilgileri ve kullanım ayrıntıları için WhatsApp üzerinden bilgi alabilirsiniz."
   },
   {
     "id": "s20",
     "name": "Bağırsak Temizleme Seti",
     "category": "Setler",
     "price": 3000,
-    "image": "assets/set-020.webp",
-    "page": 20,
+    "image": "assets/s20.webp",
     "source": "Destek Setleri",
-    "verified": true
+    "verified": true,
+    "description": "Ürün bilgileri ve kullanım ayrıntıları için WhatsApp üzerinden bilgi alabilirsiniz."
   },
   {
     "id": "s21",
     "name": "Akciğer Temizleme Destek Seti",
     "category": "Setler",
     "price": 3000,
-    "image": "assets/set-021.webp",
-    "page": 21,
+    "image": "assets/s21.webp",
     "source": "Destek Setleri",
-    "verified": true
+    "verified": true,
+    "description": "Ürün bilgileri ve kullanım ayrıntıları için WhatsApp üzerinden bilgi alabilirsiniz."
   },
   {
     "id": "s22",
     "name": "Varis Giderici Destek Seti",
     "category": "Setler",
     "price": 3000,
-    "image": "assets/set-022.webp",
-    "page": 22,
+    "image": "assets/s22.webp",
     "source": "Destek Setleri",
-    "verified": true
+    "verified": true,
+    "description": "Ürün bilgileri ve kullanım ayrıntıları için WhatsApp üzerinden bilgi alabilirsiniz."
   },
   {
     "id": "s23",
     "name": "Kanser ve Kemoterapi Sürecinde Destek Seti",
     "category": "Setler",
     "price": 3000,
-    "image": "assets/set-023.webp",
-    "page": 23,
+    "image": "assets/s23.webp",
     "source": "Destek Setleri",
-    "verified": true
+    "verified": true,
+    "description": "Ürün bilgileri ve kullanım ayrıntıları için WhatsApp üzerinden bilgi alabilirsiniz."
   },
   {
     "id": "s24",
     "name": "Saç Kıran Hastalığı Destek Seti",
     "category": "Setler",
     "price": 3000,
-    "image": "assets/set-024.webp",
-    "page": 24,
+    "image": "assets/s24.webp",
     "source": "Destek Setleri",
-    "verified": true
+    "verified": true,
+    "description": "Ürün bilgileri ve kullanım ayrıntıları için WhatsApp üzerinden bilgi alabilirsiniz."
   },
   {
     "id": "s25",
     "name": "Tüy Dökücü ve Tüy Bitirici Destek Seti",
     "category": "Setler",
     "price": 3000,
-    "image": "assets/set-025.webp",
-    "page": 25,
+    "image": "assets/s25.webp",
     "source": "Destek Setleri",
-    "verified": true
+    "verified": true,
+    "description": "Ürün bilgileri ve kullanım ayrıntıları için WhatsApp üzerinden bilgi alabilirsiniz."
   },
   {
     "id": "s26",
     "name": "Topuk Dikeni Destek Seti",
     "category": "Setler",
     "price": 3000,
-    "image": "assets/set-026.webp",
-    "page": 26,
+    "image": "assets/s26.webp",
     "source": "Destek Setleri",
-    "verified": true
+    "verified": true,
+    "description": "Ürün bilgileri ve kullanım ayrıntıları için WhatsApp üzerinden bilgi alabilirsiniz."
   },
   {
     "id": "s27",
     "name": "Saç Dökülme Karşıtı Destek Seti",
     "category": "Setler",
     "price": 3000,
-    "image": "assets/set-027.webp",
-    "page": 27,
+    "image": "assets/s27.webp",
     "source": "Destek Setleri",
-    "verified": true
+    "verified": true,
+    "description": "Ürün bilgileri ve kullanım ayrıntıları için WhatsApp üzerinden bilgi alabilirsiniz."
   },
   {
     "id": "s28",
     "name": "Vertigo Destek Seti",
     "category": "Setler",
     "price": 3000,
-    "image": "assets/set-028.webp",
-    "page": 28,
+    "image": "assets/s28.webp",
     "source": "Destek Setleri",
-    "verified": true
+    "verified": true,
+    "description": "Ürün bilgileri ve kullanım ayrıntıları için WhatsApp üzerinden bilgi alabilirsiniz."
   },
   {
     "id": "s29",
     "name": "Kan Yapıcı Destek Seti",
     "category": "Setler",
     "price": 3000,
-    "image": "assets/set-029.webp",
-    "page": 29,
+    "image": "assets/s29.webp",
     "source": "Destek Setleri",
-    "verified": true
+    "verified": true,
+    "description": "Ürün bilgileri ve kullanım ayrıntıları için WhatsApp üzerinden bilgi alabilirsiniz."
   },
   {
     "id": "s30",
     "name": "Karaciğer Temizleme Destek Seti",
     "category": "Setler",
     "price": 3000,
-    "image": "assets/set-030.webp",
-    "page": 30,
+    "image": "assets/s30.webp",
     "source": "Destek Setleri",
-    "verified": true
+    "verified": true,
+    "description": "Ürün bilgileri ve kullanım ayrıntıları için WhatsApp üzerinden bilgi alabilirsiniz."
   },
   {
     "id": "s31",
     "name": "Beyaz Saç Giderici Set",
     "category": "Setler",
     "price": 3000,
-    "image": "assets/set-031.webp",
-    "page": 31,
+    "image": "assets/s31.webp",
     "source": "Destek Setleri",
-    "verified": true
+    "verified": true,
+    "description": "Ürün bilgileri ve kullanım ayrıntıları için WhatsApp üzerinden bilgi alabilirsiniz."
   },
   {
     "id": "s32",
     "name": "Göğüs Bölgesi Bakım Seti",
     "category": "Setler",
     "price": 3000,
-    "image": "assets/set-032.webp",
-    "page": 32,
+    "image": "assets/s32.webp",
     "source": "Destek Setleri",
-    "verified": true
+    "verified": true,
+    "description": "Ürün bilgileri ve kullanım ayrıntıları için WhatsApp üzerinden bilgi alabilirsiniz."
   },
   {
     "id": "s33",
     "name": "Leke Giderici Set",
     "category": "Setler",
     "price": 3000,
-    "image": "assets/set-033.webp",
-    "page": 33,
+    "image": "assets/s33.webp",
     "source": "Destek Setleri",
-    "verified": true
+    "verified": true,
+    "description": "Ürün bilgileri ve kullanım ayrıntıları için WhatsApp üzerinden bilgi alabilirsiniz."
   },
   {
     "id": "s34",
     "name": "Sivilce ve Akne Seti",
     "category": "Setler",
     "price": 3000,
-    "image": "assets/set-034.webp",
-    "page": 34,
+    "image": "assets/s34.webp",
     "source": "Destek Setleri",
-    "verified": true
+    "verified": true,
+    "description": "Ürün bilgileri ve kullanım ayrıntıları için WhatsApp üzerinden bilgi alabilirsiniz."
   }
 ]
