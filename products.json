@@ -1,0 +1,682 @@
+[
+  {
+    "id": "u1",
+    "name": "Mumiyo Botox Kremi",
+    "category": "Kremler",
+    "price": 600,
+    "image": "assets/urun-001.webp",
+    "page": 1,
+    "source": "Dermolif Ürün Kataloğu",
+    "verified": true
+  },
+  {
+    "id": "u2",
+    "name": "Ahri Kahra Krem",
+    "category": "Kremler",
+    "price": 600,
+    "image": "assets/urun-002.webp",
+    "page": 2,
+    "source": "Dermolif Ürün Kataloğu",
+    "verified": true
+  },
+  {
+    "id": "u3",
+    "name": "Anti Aging Krem",
+    "category": "Kremler",
+    "price": 600,
+    "image": "assets/urun-003.webp",
+    "page": 3,
+    "source": "Dermolif Ürün Kataloğu",
+    "verified": true
+  },
+  {
+    "id": "u4",
+    "name": "Ruşur Taşı Kremi",
+    "category": "Kremler",
+    "price": 600,
+    "image": "assets/urun-004.webp",
+    "page": 4,
+    "source": "Dermolif Ürün Kataloğu",
+    "verified": true
+  },
+  {
+    "id": "u5",
+    "name": "Doğal Güneş Kremi",
+    "category": "Kremler",
+    "price": 600,
+    "image": "assets/urun-005.webp",
+    "page": 5,
+    "source": "Dermolif Ürün Kataloğu",
+    "verified": true
+  },
+  {
+    "id": "u6",
+    "name": "Aydınlatıcı Leke Giderici Krem",
+    "category": "Kremler",
+    "price": 600,
+    "image": "assets/urun-006.webp",
+    "page": 6,
+    "source": "Dermolif Ürün Kataloğu",
+    "verified": true
+  },
+  {
+    "id": "u7",
+    "name": "Beyazlatıcı Krem",
+    "category": "Kremler",
+    "price": 600,
+    "image": "assets/urun-007.webp",
+    "page": 7,
+    "source": "Dermolif Ürün Kataloğu",
+    "verified": true
+  },
+  {
+    "id": "u8",
+    "name": "Udihindi Kremi",
+    "category": "Kremler",
+    "price": 600,
+    "image": "assets/urun-008.webp",
+    "page": 8,
+    "source": "Dermolif Ürün Kataloğu",
+    "verified": true
+  },
+  {
+    "id": "u9",
+    "name": "İyotlu Krem",
+    "category": "Kremler",
+    "price": 600,
+    "image": "assets/urun-009.webp",
+    "page": 9,
+    "source": "Dermolif Ürün Kataloğu",
+    "verified": true
+  },
+  {
+    "id": "u10",
+    "name": "Kuyruk Yağlı Cilt Kremi",
+    "category": "Kremler",
+    "price": 600,
+    "image": "assets/urun-010.webp",
+    "page": 10,
+    "source": "Dermolif Ürün Kataloğu",
+    "verified": true
+  },
+  {
+    "id": "u11",
+    "name": "Hindistan Cevizi Yağlı Krem",
+    "category": "Kremler",
+    "price": 600,
+    "image": "assets/urun-011.webp",
+    "page": 11,
+    "source": "Dermolif Ürün Kataloğu",
+    "verified": true
+  },
+  {
+    "id": "u12",
+    "name": "Saç Kremi",
+    "category": "Kremler",
+    "price": 600,
+    "image": "assets/urun-012.webp",
+    "page": 12,
+    "source": "Dermolif Ürün Kataloğu",
+    "verified": true
+  },
+  {
+    "id": "u13",
+    "name": "Çatlak ve Selülit Kremi",
+    "category": "Kremler",
+    "price": 600,
+    "image": "assets/urun-013.webp",
+    "page": 13,
+    "source": "Dermolif Ürün Kataloğu",
+    "verified": true
+  },
+  {
+    "id": "u14",
+    "name": "Gül Roza Kremi",
+    "category": "Kremler",
+    "price": 600,
+    "image": "assets/urun-014.webp",
+    "page": 14,
+    "source": "Dermolif Ürün Kataloğu",
+    "verified": true
+  },
+  {
+    "id": "u15",
+    "name": "Kararan Bölge Kremi",
+    "category": "Kremler",
+    "price": 600,
+    "image": "assets/urun-015.webp",
+    "page": 15,
+    "source": "Dermolif Ürün Kataloğu",
+    "verified": true
+  },
+  {
+    "id": "u16",
+    "name": "Leke Giderici Cilt Açıcı Yüz Kremi",
+    "category": "Kremler",
+    "price": 600,
+    "image": "assets/urun-016.webp",
+    "page": 16,
+    "source": "Dermolif Ürün Kataloğu",
+    "verified": true
+  },
+  {
+    "id": "u17",
+    "name": "Göz Altı Morluk Kremi",
+    "category": "Kremler",
+    "price": 600,
+    "image": "assets/urun-017.webp",
+    "page": 17,
+    "source": "Dermolif Ürün Kataloğu",
+    "verified": true
+  },
+  {
+    "id": "u18",
+    "name": "Tıraş Sonrası Bakım Kremi",
+    "category": "Kremler",
+    "price": 600,
+    "image": "assets/urun-018.webp",
+    "page": 18,
+    "source": "Dermolif Ürün Kataloğu",
+    "verified": true
+  },
+  {
+    "id": "u19",
+    "name": "Yoğun Nemlendirici El ve Yüz Kremi",
+    "category": "Kremler",
+    "price": 600,
+    "image": "assets/urun-019.webp",
+    "page": 19,
+    "source": "Dermolif Ürün Kataloğu",
+    "verified": true
+  },
+  {
+    "id": "u20",
+    "name": "Güzellik Kremi",
+    "category": "Kremler",
+    "price": 600,
+    "image": "assets/urun-020.webp",
+    "page": 20,
+    "source": "Dermolif Ürün Kataloğu",
+    "verified": true
+  },
+  {
+    "id": "u21",
+    "name": "Pişik Kremi",
+    "category": "Kremler",
+    "price": 600,
+    "image": "assets/urun-021.webp",
+    "page": 21,
+    "source": "Dermolif Ürün Kataloğu",
+    "verified": true
+  },
+  {
+    "id": "u22",
+    "name": "Sivilce Kremi",
+    "category": "Kremler",
+    "price": 600,
+    "image": "assets/urun-022.webp",
+    "page": 22,
+    "source": "Dermolif Ürün Kataloğu",
+    "verified": true
+  },
+  {
+    "id": "u23",
+    "name": "Saç ve Sakal Düzleştirici Krem",
+    "category": "Kremler",
+    "price": 600,
+    "image": "assets/urun-023.webp",
+    "page": 23,
+    "source": "Dermolif Ürün Kataloğu",
+    "verified": true
+  },
+  {
+    "id": "u24",
+    "name": "Erkek Özel Krem",
+    "category": "Kremler",
+    "price": 600,
+    "image": "assets/urun-024.webp",
+    "page": 24,
+    "source": "Dermolif Ürün Kataloğu",
+    "verified": true
+  },
+  {
+    "id": "u25",
+    "name": "Sedef Merhemi",
+    "category": "Merhemler",
+    "price": null,
+    "image": "assets/urun-025.webp",
+    "page": 25,
+    "source": "Dermolif Ürün Kataloğu",
+    "verified": true
+  },
+  {
+    "id": "u26",
+    "name": "Topuk Çatlak Merhemi",
+    "category": "Merhemler",
+    "price": null,
+    "image": "assets/urun-026.webp",
+    "page": 26,
+    "source": "Dermolif Ürün Kataloğu",
+    "verified": true
+  },
+  {
+    "id": "u27",
+    "name": "Topuk Dikeni Merhemi",
+    "category": "Merhemler",
+    "price": null,
+    "image": "assets/urun-027.webp",
+    "page": 27,
+    "source": "Dermolif Ürün Kataloğu",
+    "verified": true
+  },
+  {
+    "id": "u28",
+    "name": "Alerji Merhemi",
+    "category": "Merhemler",
+    "price": null,
+    "image": "assets/urun-028.webp",
+    "page": 28,
+    "source": "Dermolif Ürün Kataloğu",
+    "verified": true
+  },
+  {
+    "id": "u29",
+    "name": "Kaşıntı Merhemi",
+    "category": "Merhemler",
+    "price": null,
+    "image": "assets/urun-029.webp",
+    "page": 29,
+    "source": "Dermolif Ürün Kataloğu",
+    "verified": true
+  },
+  {
+    "id": "u30",
+    "name": "Uyuz Merhemi",
+    "category": "Merhemler",
+    "price": null,
+    "image": "assets/urun-030.webp",
+    "page": 30,
+    "source": "Dermolif Ürün Kataloğu",
+    "verified": true
+  },
+  {
+    "id": "u31",
+    "name": "Hücre Yenileyici Merhem",
+    "category": "Merhemler",
+    "price": null,
+    "image": "assets/urun-031.webp",
+    "page": 31,
+    "source": "Dermolif Ürün Kataloğu",
+    "verified": true
+  },
+  {
+    "id": "u32",
+    "name": "Yara Yanık Merhemi",
+    "category": "Merhemler",
+    "price": null,
+    "image": "assets/urun-032.webp",
+    "page": 32,
+    "source": "Dermolif Ürün Kataloğu",
+    "verified": true
+  },
+  {
+    "id": "u33",
+    "name": "Varis Merhemi",
+    "category": "Merhemler",
+    "price": null,
+    "image": "assets/urun-033.webp",
+    "page": 33,
+    "source": "Dermolif Ürün Kataloğu",
+    "verified": true
+  },
+  {
+    "id": "u34",
+    "name": "Vitiligo Merhemi",
+    "category": "Merhemler",
+    "price": null,
+    "image": "assets/urun-034.webp",
+    "page": 34,
+    "source": "Dermolif Ürün Kataloğu",
+    "verified": true
+  },
+  {
+    "id": "s1",
+    "name": "Mide Destek Seti",
+    "category": "Setler",
+    "price": 3000,
+    "image": "assets/set-001.webp",
+    "page": 1,
+    "source": "Destek Setleri",
+    "verified": true
+  },
+  {
+    "id": "s2",
+    "name": "Ağız ve Diş Bakım Seti",
+    "category": "Setler",
+    "price": 3000,
+    "image": "assets/set-002.webp",
+    "page": 2,
+    "source": "Destek Setleri",
+    "verified": true
+  },
+  {
+    "id": "s3",
+    "name": "Sigara Bırakma Destek Seti",
+    "category": "Setler",
+    "price": 3000,
+    "image": "assets/set-003.webp",
+    "page": 3,
+    "source": "Destek Setleri",
+    "verified": true
+  },
+  {
+    "id": "s4",
+    "name": "Saç Çıkarıcı Destek Seti",
+    "category": "Setler",
+    "price": 3000,
+    "image": "assets/set-004.webp",
+    "page": 4,
+    "source": "Destek Setleri",
+    "verified": true
+  },
+  {
+    "id": "s5",
+    "name": "Vitiligo Destek Seti",
+    "category": "Setler",
+    "price": 3000,
+    "image": "assets/set-005.webp",
+    "page": 5,
+    "source": "Destek Setleri",
+    "verified": true
+  },
+  {
+    "id": "s6",
+    "name": "Sidr İçerikli Destek Seti",
+    "category": "Setler",
+    "price": 3000,
+    "image": "assets/set-006.webp",
+    "page": 6,
+    "source": "Destek Setleri",
+    "verified": true
+  },
+  {
+    "id": "s7",
+    "name": "Kolajen Destek Seti",
+    "category": "Setler",
+    "price": 3000,
+    "image": "assets/set-007.webp",
+    "page": 7,
+    "source": "Destek Setleri",
+    "verified": true
+  },
+  {
+    "id": "s8",
+    "name": "Parazit Kovucu Destek Seti",
+    "category": "Setler",
+    "price": 3000,
+    "image": "assets/set-008.webp",
+    "page": 8,
+    "source": "Destek Setleri",
+    "verified": true
+  },
+  {
+    "id": "s9",
+    "name": "Hemoroid Basur Destek Seti",
+    "category": "Setler",
+    "price": 3000,
+    "image": "assets/set-009.webp",
+    "page": 9,
+    "source": "Destek Setleri",
+    "verified": true
+  },
+  {
+    "id": "s10",
+    "name": "Şeker Destek Seti",
+    "category": "Setler",
+    "price": 3000,
+    "image": "assets/set-010.webp",
+    "page": 10,
+    "source": "Destek Setleri",
+    "verified": true
+  },
+  {
+    "id": "s11",
+    "name": "Kemik Erimesi Destek Seti",
+    "category": "Setler",
+    "price": 3000,
+    "image": "assets/set-011.webp",
+    "page": 11,
+    "source": "Destek Setleri",
+    "verified": true
+  },
+  {
+    "id": "s12",
+    "name": "Erkek Bebek Destek Seti",
+    "category": "Setler",
+    "price": 3000,
+    "image": "assets/set-012.webp",
+    "page": 12,
+    "source": "Destek Setleri",
+    "verified": true
+  },
+  {
+    "id": "s13",
+    "name": "Gebelik ve Kadınsal Problemler Destek Seti",
+    "category": "Setler",
+    "price": 3000,
+    "image": "assets/set-013.webp",
+    "page": 13,
+    "source": "Destek Setleri",
+    "verified": true
+  },
+  {
+    "id": "s14",
+    "name": "Eklem Destek Seti",
+    "category": "Setler",
+    "price": 3000,
+    "image": "assets/set-014.webp",
+    "page": 14,
+    "source": "Destek Setleri",
+    "verified": true
+  },
+  {
+    "id": "s15",
+    "name": "Bağışıklık Güçlendirici Set",
+    "category": "Setler",
+    "price": 3000,
+    "image": "assets/set-015.webp",
+    "page": 15,
+    "source": "Destek Setleri",
+    "verified": true
+  },
+  {
+    "id": "s16",
+    "name": "Egzama Mantar Sedef Destek Seti",
+    "category": "Setler",
+    "price": 3000,
+    "image": "assets/set-016.webp",
+    "page": 16,
+    "source": "Destek Setleri",
+    "verified": true
+  },
+  {
+    "id": "s17",
+    "name": "Nasır Destek Seti",
+    "category": "Setler",
+    "price": 3000,
+    "image": "assets/set-017.webp",
+    "page": 17,
+    "source": "Destek Setleri",
+    "verified": true
+  },
+  {
+    "id": "s18",
+    "name": "Bebek ve Çocuk Bakım Seti",
+    "category": "Setler",
+    "price": 3000,
+    "image": "assets/set-018.webp",
+    "page": 18,
+    "source": "Destek Setleri",
+    "verified": true
+  },
+  {
+    "id": "s19",
+    "name": "Enfeksiyon Destek Seti",
+    "category": "Setler",
+    "price": 3000,
+    "image": "assets/set-019.webp",
+    "page": 19,
+    "source": "Destek Setleri",
+    "verified": true
+  },
+  {
+    "id": "s20",
+    "name": "Bağırsak Temizleme Seti",
+    "category": "Setler",
+    "price": 3000,
+    "image": "assets/set-020.webp",
+    "page": 20,
+    "source": "Destek Setleri",
+    "verified": true
+  },
+  {
+    "id": "s21",
+    "name": "Akciğer Temizleme Destek Seti",
+    "category": "Setler",
+    "price": 3000,
+    "image": "assets/set-021.webp",
+    "page": 21,
+    "source": "Destek Setleri",
+    "verified": true
+  },
+  {
+    "id": "s22",
+    "name": "Varis Giderici Destek Seti",
+    "category": "Setler",
+    "price": 3000,
+    "image": "assets/set-022.webp",
+    "page": 22,
+    "source": "Destek Setleri",
+    "verified": true
+  },
+  {
+    "id": "s23",
+    "name": "Kanser ve Kemoterapi Sürecinde Destek Seti",
+    "category": "Setler",
+    "price": 3000,
+    "image": "assets/set-023.webp",
+    "page": 23,
+    "source": "Destek Setleri",
+    "verified": true
+  },
+  {
+    "id": "s24",
+    "name": "Saç Kıran Hastalığı Destek Seti",
+    "category": "Setler",
+    "price": 3000,
+    "image": "assets/set-024.webp",
+    "page": 24,
+    "source": "Destek Setleri",
+    "verified": true
+  },
+  {
+    "id": "s25",
+    "name": "Tüy Dökücü ve Tüy Bitirici Destek Seti",
+    "category": "Setler",
+    "price": 3000,
+    "image": "assets/set-025.webp",
+    "page": 25,
+    "source": "Destek Setleri",
+    "verified": true
+  },
+  {
+    "id": "s26",
+    "name": "Topuk Dikeni Destek Seti",
+    "category": "Setler",
+    "price": 3000,
+    "image": "assets/set-026.webp",
+    "page": 26,
+    "source": "Destek Setleri",
+    "verified": true
+  },
+  {
+    "id": "s27",
+    "name": "Saç Dökülme Karşıtı Destek Seti",
+    "category": "Setler",
+    "price": 3000,
+    "image": "assets/set-027.webp",
+    "page": 27,
+    "source": "Destek Setleri",
+    "verified": true
+  },
+  {
+    "id": "s28",
+    "name": "Vertigo Destek Seti",
+    "category": "Setler",
+    "price": 3000,
+    "image": "assets/set-028.webp",
+    "page": 28,
+    "source": "Destek Setleri",
+    "verified": true
+  },
+  {
+    "id": "s29",
+    "name": "Kan Yapıcı Destek Seti",
+    "category": "Setler",
+    "price": 3000,
+    "image": "assets/set-029.webp",
+    "page": 29,
+    "source": "Destek Setleri",
+    "verified": true
+  },
+  {
+    "id": "s30",
+    "name": "Karaciğer Temizleme Destek Seti",
+    "category": "Setler",
+    "price": 3000,
+    "image": "assets/set-030.webp",
+    "page": 30,
+    "source": "Destek Setleri",
+    "verified": true
+  },
+  {
+    "id": "s31",
+    "name": "Beyaz Saç Giderici Set",
+    "category": "Setler",
+    "price": 3000,
+    "image": "assets/set-031.webp",
+    "page": 31,
+    "source": "Destek Setleri",
+    "verified": true
+  },
+  {
+    "id": "s32",
+    "name": "Göğüs Bölgesi Bakım Seti",
+    "category": "Setler",
+    "price": 3000,
+    "image": "assets/set-032.webp",
+    "page": 32,
+    "source": "Destek Setleri",
+    "verified": true
+  },
+  {
+    "id": "s33",
+    "name": "Leke Giderici Set",
+    "category": "Setler",
+    "price": 3000,
+    "image": "assets/set-033.webp",
+    "page": 33,
+    "source": "Destek Setleri",
+    "verified": true
+  },
+  {
+    "id": "s34",
+    "name": "Sivilce ve Akne Seti",
+    "category": "Setler",
+    "price": 3000,
+    "image": "assets/set-034.webp",
+    "page": 34,
+    "source": "Destek Setleri",
+    "verified": true
+  }
+]
